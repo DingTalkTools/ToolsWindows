@@ -1,7 +1,7 @@
 # ToolsWindows
 <p align="center">
 	<a href="https://github.com/DingTalkTools/ToolsWindows/master/LICENSE">
-		<img src="https://img.shields.io/badge/license-IDK-blue" alt="License">
+		<img src="https://img.shields.io/badge/license-GPL-blue" alt="License">
 	</a>
 </p>
 
